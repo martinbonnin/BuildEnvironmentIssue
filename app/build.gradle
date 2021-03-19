@@ -6,7 +6,7 @@ buildscript {
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
-    id "com.apollographql.apollo" version "${apolloVersion}"
+    id "com.apollographql.apollo"
 }
 
 android {
